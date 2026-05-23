@@ -4,7 +4,8 @@ A real-time facial emotion recognition system that detects faces from a webcam f
 
 ## Demo
 
-!![Uploading image.png…]()
+<img width="475" height="385" alt="image" src="https://github.com/user-attachments/assets/9fe67c43-32eb-46fb-af91-5b56d194d780" />
+
 
 
 > _Replace `demo.png` with a screenshot of the detector running on your own webcam feed._
