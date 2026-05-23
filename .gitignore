@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Datasets (large image folders — not tracked in git)
+train/
+test/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model files
+*.h5
